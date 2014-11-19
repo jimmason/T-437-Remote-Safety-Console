@@ -1,6 +1,0 @@
-[{release,"t437","0.1.0","6.2",
-          [{kernel,"3.0.3","./lib/kernel-3.0.3"},
-           {stdlib,"2.2","./lib/stdlib-2.2"},
-           {crypto,"3.4.1","./lib/crypto-3.4.1"},
-           {t437,"0.1.0","./lib/t437-0.1.0"}],
-          permanent}].

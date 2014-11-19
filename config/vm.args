@@ -1,0 +1,7 @@
+-noshell
+
+# for remote access & debugging
+-name nucular_plant@127.0.0.1
+
+-smp disable
++A 1
